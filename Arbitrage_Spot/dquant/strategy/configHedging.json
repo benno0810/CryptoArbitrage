@@ -1,0 +1,17 @@
+{
+  "initial_amount":2,
+  "maxTradeRatio":3,
+  "max_task_on_do": 5,
+  "meta_code_spot": "btc_usdt",
+  "meta_code_future": "btc_usd_quarter",
+  "strategy_id":"100",
+  "trigger_amount":1,
+  "trigger_order_premium":0.05,
+  "trigger_close_premium":0.03,
+  "btc_usdt":{
+    "minimum_amount":0.01
+  },
+  "eth_usdt": {
+    "minimum_amount": 0.01
+  }
+}

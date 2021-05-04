@@ -1,0 +1,386 @@
+{
+    "status": -20, 
+    "current_future": [
+        {
+            "current": {
+                "coin_remain_c": 0.0, 
+                "current_money": -26542.4, 
+                "money": 26542.4, 
+                "platform_name": "OKCoin", 
+                "amount": 0.706, 
+                "type": "long", 
+                "account_name": "OKCoin"
+            }, 
+            "future": {
+                "future_money": 4000.0, 
+                "coin_remain_f": 0.0, 
+                "platform_name": "OKCoinFuture", 
+                "amount": 40, 
+                "type": "short", 
+                "account_name": "OKCoinFuture"
+            }
+        }, 
+        {
+            "current": {
+                "coin_remain_c": 0.0, 
+                "current_money": -26542.4, 
+                "money": 26542.4, 
+                "platform_name": "OKCoin", 
+                "amount": 0.706, 
+                "type": "long", 
+                "account_name": "OKCoin"
+            }, 
+            "future": {
+                "future_money": 4000.0, 
+                "coin_remain_f": 0.0, 
+                "platform_name": "OKCoinFuture", 
+                "amount": 40, 
+                "type": "short", 
+                "account_name": "OKCoinFuture"
+            }
+        }, 
+        {
+            "current": {
+                "coin_remain_c": 0.0, 
+                "current_money": -26542.4, 
+                "money": 26542.4, 
+                "platform_name": "OKCoin", 
+                "amount": 0.693, 
+                "type": "long", 
+                "account_name": "OKCoin"
+            }, 
+            "future": {
+                "future_money": 4000.0, 
+                "coin_remain_f": 0.0, 
+                "platform_name": "OKCoinFuture", 
+                "amount": 40, 
+                "type": "short", 
+                "account_name": "OKCoinFuture"
+            }
+        }, 
+        {
+            "current": {
+                "coin_remain_c": 0.0, 
+                "current_money": -26542.4, 
+                "money": 26542.4, 
+                "platform_name": "OKCoin", 
+                "amount": 0.693, 
+                "type": "long", 
+                "account_name": "OKCoin"
+            }, 
+            "future": {
+                "future_money": 4000.0, 
+                "coin_remain_f": 0.0, 
+                "platform_name": "OKCoinFuture", 
+                "amount": 40, 
+                "type": "short", 
+                "account_name": "OKCoinFuture"
+            }
+        }, 
+        {
+            "current": {
+                "coin_remain_c": 0.0, 
+                "current_money": -26542.4, 
+                "money": 26542.4, 
+                "platform_name": "OKCoin", 
+                "amount": 0.693, 
+                "type": "long", 
+                "account_name": "OKCoin"
+            }, 
+            "future": {
+                "future_money": 4000.0, 
+                "coin_remain_f": 0.0, 
+                "platform_name": "OKCoinFuture", 
+                "amount": 40, 
+                "type": "short", 
+                "account_name": "OKCoinFuture"
+            }
+        }, 
+        {
+            "current": {
+                "coin_remain_c": 0.0, 
+                "current_money": -26542.4, 
+                "money": 26542.4, 
+                "platform_name": "OKCoin", 
+                "amount": 0.693, 
+                "type": "long", 
+                "account_name": "OKCoin"
+            }, 
+            "future": {
+                "future_money": 4000.0, 
+                "coin_remain_f": 0.0, 
+                "platform_name": "OKCoinFuture", 
+                "amount": 40, 
+                "type": "short", 
+                "account_name": "OKCoinFuture"
+            }
+        }, 
+        {
+            "current": {
+                "coin_remain_c": 0.0, 
+                "current_money": -26542.4, 
+                "money": 26542.4, 
+                "platform_name": "OKCoin", 
+                "amount": 0.693, 
+                "type": "long", 
+                "account_name": "OKCoin"
+            }, 
+            "future": {
+                "future_money": 4000.0, 
+                "coin_remain_f": 0.0, 
+                "platform_name": "OKCoinFuture", 
+                "amount": 40, 
+                "type": "short", 
+                "account_name": "OKCoinFuture"
+            }
+        }, 
+        {
+            "current": {
+                "coin_remain_c": 0.0, 
+                "current_money": -26542.4, 
+                "money": 26542.4, 
+                "platform_name": "OKCoin", 
+                "amount": 0.693, 
+                "type": "long", 
+                "account_name": "OKCoin"
+            }, 
+            "future": {
+                "future_money": 4000.0, 
+                "coin_remain_f": 0.0, 
+                "platform_name": "OKCoinFuture", 
+                "amount": 40, 
+                "type": "short", 
+                "account_name": "OKCoinFuture"
+            }
+        }, 
+        {
+            "current": {
+                "coin_remain_c": 0.0, 
+                "current_money": -26542.399999999998, 
+                "money": 26542.399999999998, 
+                "platform_name": "OKCoin", 
+                "amount": 0.693, 
+                "type": "long", 
+                "account_name": "OKCoin"
+            }, 
+            "future": {
+                "future_money": 4000.0, 
+                "coin_remain_f": 0.0, 
+                "platform_name": "OKCoinFuture", 
+                "amount": 40, 
+                "type": "short", 
+                "account_name": "OKCoinFuture"
+            }
+        }, 
+        {
+            "current": {
+                "coin_remain_c": 0.0, 
+                "current_money": -26542.399999999998, 
+                "money": 26542.399999999998, 
+                "platform_name": "OKCoin", 
+                "amount": 0.693, 
+                "type": "long", 
+                "account_name": "OKCoin"
+            }, 
+            "future": {
+                "future_money": 4000.0, 
+                "coin_remain_f": 0.0, 
+                "platform_name": "OKCoinFuture", 
+                "amount": 40, 
+                "type": "short", 
+                "account_name": "OKCoinFuture"
+            }
+        }, 
+        {
+            "current": {
+                "coin_remain_c": 0.0, 
+                "current_money": -26542.4, 
+                "money": 26542.4, 
+                "platform_name": "OKCoin", 
+                "amount": 0.69, 
+                "type": "long", 
+                "account_name": "OKCoin"
+            }, 
+            "future": {
+                "future_money": 4000.0, 
+                "coin_remain_f": 0.0, 
+                "platform_name": "OKCoinFuture", 
+                "amount": 40, 
+                "type": "short", 
+                "account_name": "OKCoinFuture"
+            }
+        }, 
+        {
+            "current": {
+                "coin_remain_c": 0.0, 
+                "current_money": -26542.399999999998, 
+                "money": 26542.399999999998, 
+                "platform_name": "OKCoin", 
+                "amount": 0.69, 
+                "type": "long", 
+                "account_name": "OKCoin"
+            }, 
+            "future": {
+                "future_money": 4000.0, 
+                "coin_remain_f": 0.0, 
+                "platform_name": "OKCoinFuture", 
+                "amount": 40, 
+                "type": "short", 
+                "account_name": "OKCoinFuture"
+            }
+        }, 
+        {
+            "current": {
+                "coin_remain_c": 0.0, 
+                "current_money": -26542.4, 
+                "money": 26542.4, 
+                "platform_name": "OKCoin", 
+                "amount": 0.69, 
+                "type": "long", 
+                "account_name": "OKCoin"
+            }, 
+            "future": {
+                "future_money": 4000.0, 
+                "coin_remain_f": 0.0, 
+                "platform_name": "OKCoinFuture", 
+                "amount": 40, 
+                "type": "short", 
+                "account_name": "OKCoinFuture"
+            }
+        }, 
+        {
+            "current": {
+                "coin_remain_c": 0.0, 
+                "current_money": -26542.4, 
+                "money": 26542.4, 
+                "platform_name": "OKCoin", 
+                "amount": 0.689, 
+                "type": "long", 
+                "account_name": "OKCoin"
+            }, 
+            "future": {
+                "future_money": 4000.0, 
+                "coin_remain_f": 0.0, 
+                "platform_name": "OKCoinFuture", 
+                "amount": 40, 
+                "type": "short", 
+                "account_name": "OKCoinFuture"
+            }
+        }, 
+        {
+            "current": {
+                "coin_remain_c": 0.0, 
+                "current_money": -26542.4, 
+                "money": 26542.4, 
+                "platform_name": "OKCoin", 
+                "amount": 0.689, 
+                "type": "long", 
+                "account_name": "OKCoin"
+            }, 
+            "future": {
+                "future_money": 4000.0, 
+                "coin_remain_f": 0.0, 
+                "platform_name": "OKCoinFuture", 
+                "amount": 40, 
+                "type": "short", 
+                "account_name": "OKCoinFuture"
+            }
+        }, 
+        {
+            "current": {
+                "coin_remain_c": 0.0, 
+                "current_money": -26542.4, 
+                "money": 26542.4, 
+                "platform_name": "OKCoin", 
+                "amount": 0.688, 
+                "type": "long", 
+                "account_name": "OKCoin"
+            }, 
+            "future": {
+                "future_money": 4000.0, 
+                "coin_remain_f": 0.0, 
+                "platform_name": "OKCoinFuture", 
+                "amount": 40, 
+                "type": "short", 
+                "account_name": "OKCoinFuture"
+            }
+        }, 
+        {
+            "current": {
+                "coin_remain_c": 0.0, 
+                "current_money": -26542.399999999998, 
+                "money": 26542.399999999998, 
+                "platform_name": "OKCoin", 
+                "amount": 0.688, 
+                "type": "long", 
+                "account_name": "OKCoin"
+            }, 
+            "future": {
+                "future_money": 4000.0, 
+                "coin_remain_f": 0.0, 
+                "platform_name": "OKCoinFuture", 
+                "amount": 40, 
+                "type": "short", 
+                "account_name": "OKCoinFuture"
+            }
+        }, 
+        {
+            "current": {
+                "coin_remain_c": 0.0, 
+                "current_money": -26542.4, 
+                "money": 26542.4, 
+                "platform_name": "OKCoin", 
+                "amount": 0.708, 
+                "type": "long", 
+                "account_name": "OKCoin"
+            }, 
+            "future": {
+                "future_money": 4000.0, 
+                "coin_remain_f": 0.0, 
+                "platform_name": "OKCoinFuture", 
+                "amount": 40, 
+                "type": "short", 
+                "account_name": "OKCoinFuture"
+            }
+        }, 
+        {
+            "current": {
+                "coin_remain_c": 0.0, 
+                "current_money": -26542.4, 
+                "money": 26542.4, 
+                "platform_name": "OKCoin", 
+                "amount": 0.708, 
+                "type": "long", 
+                "account_name": "OKCoin"
+            }, 
+            "future": {
+                "future_money": 4000.0, 
+                "coin_remain_f": 0.0, 
+                "platform_name": "OKCoinFuture", 
+                "amount": 40, 
+                "type": "short", 
+                "account_name": "OKCoinFuture"
+            }
+        }, 
+        {
+            "current": {
+                "coin_remain_c": 0.0, 
+                "current_money": -26542.4, 
+                "money": 26542.4, 
+                "platform_name": "OKCoin", 
+                "amount": 0.715, 
+                "type": "long", 
+                "account_name": "OKCoin"
+            }, 
+            "future": {
+                "future_money": 4000.0, 
+                "coin_remain_f": 0.0, 
+                "platform_name": "OKCoinFuture", 
+                "amount": 40, 
+                "type": "short", 
+                "account_name": "OKCoinFuture"
+            }
+        }
+    ], 
+    "time": "2017_10_14_08_47_38"
+}

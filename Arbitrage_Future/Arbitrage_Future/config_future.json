@@ -1,0 +1,96 @@
+{
+  "CNBTC":{
+    "access_key":"XXX",
+    "secret_key":"XXXX",
+    "start_time_out":"5",
+    "max_time_out":"10",
+    "time_out_penalty":"1.5"
+  },
+  "Bitfinex":{
+    "access_key":"XXX",
+    "secret_key":"XXXX"
+  },
+  "YunBi":{
+    "YunBi":{
+      "currency_pairs":[["BTC","CNY"]],
+      "access_key":"XXX",
+      "secret_key":"XXX",
+      "start_time_out":"5",
+      "max_time_out":"10",
+      "time_out_penalty":"1.5",
+      "valid":"true"
+    }
+  },
+  "HuoBi":{
+    "access_key":"XXX",
+    "secret_key":"XXXX"
+  },
+  "OKCoin":{
+    "OKCoin":{
+      "currency_pairs":[["BTC","CNY"]],
+      "access_key":"XXXX",
+      "secret_key":"XXXX",
+      "valid":"true"
+    },
+    "OKCoin1":{
+      "currency_pairs":[["BTC","CNY"]],
+      "access_key":"XXXX",
+      "secret_key":"XXXX",
+      "valid":"true"
+    },
+    "OKCoin2": {
+      "currency_pairs":[["BTC","CNY"]],
+      "access_key": "XXXX",
+      "secret_key": "XXXX",
+      "valid":"true"
+    },
+
+    "OKCoin3":{
+      "currency_pairs":[["BTC","CNY"]],
+      "access_key":"XXXX",
+      "secret_key":"XXXX",
+      "valid":"true"
+    }
+  },
+  "OKCoinFuture":{
+    "OKCoinFuture": {
+      "currency_pairs":[["BTC","USD"]],
+      "access_key": "XXXX",
+      "secret_key": "XXXXX",
+      "valid":"true"
+    }
+  },
+  "DepthData":{
+    "BTC":{
+      "TradeAdvanceRatio":"7.0",
+      "OffsetCoin":"0",
+      "OffsetPlayer":"0"
+    }
+  },
+  "MaxCoinTradeLimitation":"40",
+  "MakePositionPositive":"0.03",
+  "ClosePositionPositive":"0.02",
+  "MakePositionNegative":"-0.03",
+  "ClosePositionNegative":"-0.01",
+  "thres_eth":"400",
+  "thres_btc":"400",
+  "max_thres_limitation":"15",
+  "alert_thres_eth":"150",
+  "alert_thres_btc":"150",
+  "alert_slope":"0.00",
+  "TradeMultiplyRatio":"0.0",
+  "preset_eth_to_btc":"0.08",
+
+  "userid":"XXXX",
+  "slippage":"0.01",
+  "open_yunbi":"1",
+  "open_huobi":"0",
+  "open_okcoin":"1",
+  "open_bfx":"1",
+  "open_btrex":"1",
+  "open_cnbtc":"1",
+  "eat_market":"1",
+  "tel":[
+  ]
+}
+

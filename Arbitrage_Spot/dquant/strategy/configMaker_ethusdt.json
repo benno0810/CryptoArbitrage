@@ -1,0 +1,36 @@
+{
+  "target_market":"Binance",
+  "initial_amount":0.04,
+  "thres":0.01,
+  "min_thres": 0.008,
+  "max_thres": 0.012,
+  "maxTradeRatio":3,
+  "max_task_on_do": 5,
+  "meta_code": "eth_usdt",
+  "amount_precise":8,
+  "precise":8,
+  "strategy_id":"2",
+  "taker_wake_interval": 600,
+  "max_amount_unfilled": 10,
+  "dangerous_balance":5,
+  "audit_reset_interval":18000,
+  "Binance_new_order_thres": 0.012,
+  "trade_obj": {
+    "Bitfinex": {
+      "depth_name": "Bitfinex",
+      "trade":false
+    },
+    "OKEX": {
+      "depth_name": "OKEX",
+      "trade":true
+    },
+    "Binance": {
+      "depth_name": "Binance",
+      "trade":true
+    },
+    "HuoBiPro": {
+      "depth_name": "HuoBiPro",
+      "trade":true
+    }
+  }
+}

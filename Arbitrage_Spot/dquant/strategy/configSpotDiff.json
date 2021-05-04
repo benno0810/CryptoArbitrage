@@ -1,0 +1,33 @@
+{
+  "initial_amount":0.04,
+  "maxTradeRatio":3,
+  "max_task_on_do": 5,
+  "meta_code": "eth_btc",
+  "diff_thres": 0.01,
+  "strategy_id":"2",
+  "dangerous_balance":5,
+  "audit_reset_interval":18000,
+  "taker_wake_interval": 600,
+  "trade_obj": {
+    "Bitfinex": {
+      "name": "Bitfinex",
+      "trade":false,
+      "slippage":0.00000001
+    },
+    "OKEX": {
+      "name": "OKEX",
+      "trade":true,
+      "slippage":0.00000001
+    },
+    "Binance": {
+      "name": "Binance",
+      "trade":true,
+      "slippage":0.00000001
+    },
+    "HuoBiPro": {
+      "name": "HuoBiPro",
+      "trade":true,
+      "slippage":0.000001
+    }
+  }
+}

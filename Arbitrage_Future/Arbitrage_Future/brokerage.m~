@@ -1,0 +1,5 @@
+thres = 50
+sell_x = 10:0.1:200
+sell_y = (sell_x/50).^-1
+sell_y(sell_x>50)=sell_y(500)
+plot(sell_x,sell_y)
