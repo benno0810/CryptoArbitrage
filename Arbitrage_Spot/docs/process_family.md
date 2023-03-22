@@ -10,19 +10,18 @@
 
 gosuv可以用web来管理进程，只要在web上填几个参数。然后参数会自动填充到云主机的相关配置文件里。点下按钮，进程就可以跑起来。
 
-http://ec2-52-199-28-152.ap-northeast-1.compute.amazonaws.com:11313/
 
 登录
 
 user: root
-psw: HxyiLbPKkUtMnsCQ3XEuzvBy
+psw: HxyiLbPKkUt
 
 ### 有哪些进程
 
 这里先梳理有哪些进程。
 
 
-1 云主机：ubuntu@ec2-52-199-28-152.ap-northeast-1.compute.amazonaws.com
+1 云主机：ubuntu@ec2-52-199-28-152.ap-northeast-1.co
 
 - shannan_xinpu
 - okex_future
