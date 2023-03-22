@@ -9,7 +9,7 @@ sms_send_uri = "/webservice/sms.php?method=Submit"
 # 用户名请登录用户中心->验证码、通知短信->帐户及签名设置->APIID
 account = "C16878868"
 # 密码 查看密码请登录用户中心->验证码、通知短信->帐户及签名设置->APIKEY
-password = "176e1b71eeaa323877e7fbba000a77e7"
+password = "176e1b71eeaa323877e7f"
 
 
 def send_sms(text, mobile):
@@ -26,7 +26,7 @@ def send_sms(text, mobile):
 
 
 # if __name__ == '__main__':
-#     mobile = "15210561008"
+#     mobile = ""
 #     text = "您的验证码是：121254。请不要把验证码泄露给其他人。"
 #
 #     print(send_sms(text, mobile))
